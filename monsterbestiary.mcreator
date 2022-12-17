@@ -1,9 +1,41 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Miia",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "miia"
+    },
+    {
+      "name": "Rachnera",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rachnera"
+    },
+    {
+      "name": "Suu",
+      "type": "livingentity",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suu"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "entity.monsterbestiary.suu": "Suu",
+      "entity.monsterbestiary.miia": "Miia",
+      "entity.monsterbestiary.rachnera": "Rachnera",
+      "item.monsterbestiary.suu_spawn_egg": "Suu Spawn Egg",
+      "item.monsterbestiary.miia_spawn_egg": "Miia Spawn Egg",
+      "item.monsterbestiary.rachnera_spawn_egg": "Rachnera Spawn Egg"
+    }
   },
   "foldersRoot": {
     "name": "~",

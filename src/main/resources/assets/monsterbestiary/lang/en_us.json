@@ -1,1 +1,8 @@
-{}
+{
+  "entity.monsterbestiary.suu": "Suu",
+  "entity.monsterbestiary.miia": "Miia",
+  "entity.monsterbestiary.rachnera": "Rachnera",
+  "item.monsterbestiary.suu_spawn_egg": "Suu Spawn Egg",
+  "item.monsterbestiary.miia_spawn_egg": "Miia Spawn Egg",
+  "item.monsterbestiary.rachnera_spawn_egg": "Rachnera Spawn Egg"
+}
